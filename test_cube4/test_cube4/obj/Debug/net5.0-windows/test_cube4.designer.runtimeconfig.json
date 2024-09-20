@@ -6,8 +6,8 @@
       "version": "5.0.0"
     },
     "additionalProbingPaths": [
-      "C:\\Users\\desai\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\desai\\.nuget\\packages"
+      "C:\\Users\\quent\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\quent\\.nuget\\packages"
     ],
     "configProperties": {
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true

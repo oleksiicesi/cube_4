@@ -16,5 +16,7 @@ namespace test_cube4
         {
             InitializeComponent();
         }
+
+       
     }
 }

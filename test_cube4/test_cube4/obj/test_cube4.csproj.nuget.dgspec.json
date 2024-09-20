@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\desai\\source\\repos\\test_cube4\\test_cube4\\test_cube4.csproj": {}
+    "C:\\Users\\quent\\OneDrive\\Documents\\Bloc_4_VS\\cube_4\\test_cube4\\test_cube4\\test_cube4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\desai\\source\\repos\\test_cube4\\test_cube4\\test_cube4.csproj": {
+    "C:\\Users\\quent\\OneDrive\\Documents\\Bloc_4_VS\\cube_4\\test_cube4\\test_cube4\\test_cube4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\desai\\source\\repos\\test_cube4\\test_cube4\\test_cube4.csproj",
+        "projectUniqueName": "C:\\Users\\quent\\OneDrive\\Documents\\Bloc_4_VS\\cube_4\\test_cube4\\test_cube4\\test_cube4.csproj",
         "projectName": "test_cube4",
-        "projectPath": "C:\\Users\\desai\\source\\repos\\test_cube4\\test_cube4\\test_cube4.csproj",
-        "packagesPath": "C:\\Users\\desai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\desai\\source\\repos\\test_cube4\\test_cube4\\obj\\",
+        "projectPath": "C:\\Users\\quent\\OneDrive\\Documents\\Bloc_4_VS\\cube_4\\test_cube4\\test_cube4\\test_cube4.csproj",
+        "packagesPath": "C:\\Users\\quent\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\quent\\OneDrive\\Documents\\Bloc_4_VS\\cube_4\\test_cube4\\test_cube4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\desai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\quent\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0-windows7.0"
+          "net5.0-windows"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -34,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -45,7 +50,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -57,7 +63,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
